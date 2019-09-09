@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'https://vast-cove-51102.herokuapp.com//v1/task/';
+  var apiRoot = 'https://frozen-beyond-13234.herokuapp.com/v1/task/';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
